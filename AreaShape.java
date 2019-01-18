@@ -1,6 +1,6 @@
 import java.util.*;
-   public class AreaShape 
-   { /* functions to calculate area of different shapes */
+public class AreaShape 
+{ /* functions to calculate area of different shapes */
    static double area = 0.0; 
    static double result = 0.0;
 	public static double areacircle(double radius) {
@@ -53,5 +53,5 @@ import java.util.*;
 	  else { 
 		 System.out.println("Enter the input correctly");/*error message if no condition matches*/
 		} 
-	} 
+     } 
 }
